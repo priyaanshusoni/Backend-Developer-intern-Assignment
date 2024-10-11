@@ -1,6 +1,11 @@
 # Assignment for Backend Developer Intern # 
 
 
+
+## Video ##
+
+[Full Video Explanation](https://youtu.be/3v4eCbKW_9I?si=8tHoYBLtf8fYs3_d)
+
 ## Project Overview
 
 This project is a **Node.js** application that provides a **REST API** for managing users and admins in an assignment system. It uses **MongoDB** for data storage and integrates **JWT-based authentication** for securing routes. Additionally, **bcrypt** is used for password hashing, and **Zod** is used for input validation.
@@ -177,7 +182,7 @@ The application has two primary modules:
 
 ## Video ##
 
-![Full assignment Explanation](https://youtu.be/3v4eCbKW_9I)
+[Full Video Explanation](https://youtu.be/3v4eCbKW_9I?si=8tHoYBLtf8fYs3_d)
 
 
 
